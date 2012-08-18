@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /TODO
 *.log
 *.log.*
@@ -36,3 +37,20 @@ vendor/bundler/
 *.fla
 /bin
 
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+node_modules
+npm-debug.log
+>>>>>>> 8f2ab0c6cea5efbf5eb0e045ab9b80af2abf3eb0
